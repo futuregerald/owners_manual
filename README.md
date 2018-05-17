@@ -19,6 +19,7 @@ A short manual for how futuregerald works.
 - I wear my heart on my sleeve but criticism drives me to do better
 - I believe that I can learn and accomplish anything
 - I'm bad at personal confrontations
+- I'm very positive! My default answer is "Yes" and I love shooting for the stars.
 
 ## How can you best work with me?
 
@@ -27,6 +28,7 @@ A short manual for how futuregerald works.
 - Give me more information than you think I need
 - I know your busy, but try and respond if I message you, even if it's a day or two later. Later is better than never. 
 - Let me do my job
+- Let me see your emotions :)
 
 ## What are your pet peeves?
 
