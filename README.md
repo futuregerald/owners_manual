@@ -44,5 +44,6 @@ A short manual for how futuregerald works.
 - I'm bad at time management
 - I bring too much of myself to work
 - I overthink situations
+- I put a lot of pressure on myself and sometimes take on too much responsibility
 
 This was inspired by http://www.nytimes.com/2013/03/31/business/questbacks-lead-strategist-on-his-user-manual.html
